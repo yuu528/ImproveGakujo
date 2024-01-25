@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Improve Gakujo
-// @namespace    https://gist.github.com/yuu528/529046d3dcead488a4ea05e2a7a7ff48
-// @version      2.2
+// @namespace    https://github.com/yuu528/ImproveGakujo
+// @version      2.2.1
 // @description  improve gakujo.shizuoka.ac.jp
 // @author       Yuu528
 // @match        https://gakujo.shizuoka.ac.jp/portal/*

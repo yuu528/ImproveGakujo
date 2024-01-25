@@ -33,7 +33,7 @@
 
 2. improve_gakujo.user.jsをインストールする
 
-- [インストールリンク](https://raw.githubusercontent.com/yuu528/ImproveGakujo/main/improve_gakujo.user.js)
+- [インストールリンク](https://github.com/yuu528/ImproveGakujo/raw/master/improve_gakujo.user.js)
 
 ## 使い方
 
